@@ -2,7 +2,7 @@
 Implementation
 
 ## Description
-Study case for Back End Dev practice. Writted in Javascript. Node.js and Express was used as library and framework. MongoDb used as Database
+Study case for Back End Dev practice. Writted in Javascript. Node.js and Express was used as library and framework. MongoDb used as Database\
 Current Feature :
 * Basic user CRUD with MongoDb populate feature implementation
 
