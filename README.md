@@ -1,5 +1,5 @@
 # MongoDB CRUD + Populate feature - Study Case
-Server-side source for AGMOSWeb
+Implementation
 
 ## Description
 Study case for Back End Dev practice. Writted in Javascript. Node.js and Express was used as library and framework. MongoDb used as Database
