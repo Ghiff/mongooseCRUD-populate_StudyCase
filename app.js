@@ -17,7 +17,7 @@ var url = 'mongodb://localhost:{mongodb_port}/{yourdbs}';
 var connect = mongoose.connect(url);// added
 
 connect.then((db)=>{
-  console.log('Successfully connected to testColab MongoDB');
+  console.log('Successfully connected to dbs MongoDB');
 },
   (err)=>{
     console.log('Failed to connect, Error : ', err);
