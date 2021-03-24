@@ -26,7 +26,7 @@ npm install
 ```
 npm start
 ```
-2. Change port and dbs in the apps.js for mongodb connection
+2. Change port and dbs in the app.js for mongodb connection
 
 3. Fetch API by using Postman on default local port
 ```
