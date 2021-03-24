@@ -3,7 +3,6 @@ Implementation
 
 ## Description
 Study case for Back End Dev practice. Writted in Javascript. Node.js and Express was used as library and framework. MongoDb used as Database.\
-
 The concept of this app is a social network app, where you can post some string content and add a comment on it.\
 Current Feature :
 * Basic user CRUD with MongoDb populate feature implementation
